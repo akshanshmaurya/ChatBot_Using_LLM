@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain-google-genai
+langchain-community.vectorstores
+PyPDF2
+langchain.text-splitter
